@@ -11,6 +11,7 @@ Hedef kişinin kimleri takip ettiğini veya onu kimlerin takip ettiğini göster
 - **Uygulama hiçbir şekilde verilerinizi almaz, kaydetmez, paylaşmaz.**
 - **İşlemler menüsüne geldikten sonra ilk olarak hedef kullanıcıyı aratınız.**
 - **Selenium kullanıldığı için hedef kullanıcıyı girdiğiniz hesapla _TAKİP EDİYOR OLMAK_ zorundasınız.**
+- **Uygulama açıldığında arkada açılan Chrome ve cmd penceresini kapatmayınız. Kapatılırsa uygulama çalışmaz.**
 
 **NASIL İNDİRİLİR**
 
