@@ -12,6 +12,8 @@ Hedef kişinin kimleri takip ettiğini veya onu kimlerin takip ettiğini göster
 - **İşlemler menüsüne geldikten sonra ilk olarak hedef kullanıcıyı aratınız.**
 - **Selenium kullanıldığı için hedef kullanıcıyı girdiğiniz hesapla _TAKİP EDİYOR OLMAK_ zorundasınız.**
 - **Uygulama açıldığında arkada açılan Chrome ve cmd penceresini kapatmayınız. Kapatılırsa uygulama çalışmaz.**
+- **Eğer kullanıcı girişini yaptıktan sonra işlemler sayfasına geçemiyorsanız ve Chromeda ![image](https://user-images.githubusercontent.com/56770135/142734440-948a27c6-813e-4ac8-9bee-d3770e306f60.png) hatasını alıyorsanız uygulamayı kapatınız ve tekrar açınız**
+
 
 **NASIL İNDİRİLİR**
 
